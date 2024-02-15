@@ -1,4 +1,0 @@
-first branch
-my test file 3
-modifed in branch one
-modifed in branch two
